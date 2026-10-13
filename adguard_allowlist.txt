@@ -8,7 +8,6 @@
 @@||thuedientu.gdt.gov.vn^
 @@||canhan.gdt.gov.vn^
 @@||vneid.gov.vn^
-@@||vnpost.vn^
 
 ! --- 2. NGÂN HÀNG & TÀI CHÍNH ---
 ! Các ngân hàng lớn
@@ -63,6 +62,7 @@
 @@||foody.vn^
 @@||shopeefood.vn^
 ! Vận chuyển & Quản lý bán hàng
+@@||vnpost.vn^
 @@||ghn.vn^
 @@||ghtk.vn^
 @@||viettelpost.com.vn^
